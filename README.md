@@ -1,6 +1,4 @@
-مطمئناً! در اینجا یک نسخه بهبود یافته از `README.md` برای پروژه شما با بهینه‌سازی برای سئو و استفاده از ایموجی‌ها، تگ‌های HTML، و ساختار زیباتر به زبان‌های فارسی و انگلیسی آماده کرده‌ام:
 
-```markdown
 # ShansPremium Telegram Bot 🤖🎉 | ربات تلگرام شانس پریمیوم 🎁
 
 **ShansPremium** is a powerful Telegram bot designed to organize premium raffle events. The bot allows users to participate in weekly raffles for a chance to win premium Telegram subscriptions and other exciting prizes. Users must join specific channels to participate, and admins can manage all aspects of the raffle.
